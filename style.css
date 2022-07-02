@@ -1,0 +1,56 @@
+html {
+    background: rgb(211, 105, 155);
+    color: #726e49;
+    font-family: "Palatino Linotype";
+    font-size: 13px;
+    width: 75%;
+
+}
+
+header {
+    background: rgb(211, 105, 155);
+    color: #726e49;
+    font-family: "Palatino Linotype";
+    font-size: 13px;
+    width: 75%;
+
+}
+
+nav {
+    ul#navbar li{
+    display: inline;
+    }
+    background: rgb(211, 105, 155);
+    color: #726e49;
+    font-family: "Palatino Linotype";
+    font-size: 13px;
+    width: 75%;
+
+}
+body {
+    background: rgb(211, 105, 155);
+    color: #726e49;
+    font-family: "Palatino Linotype";
+    font-size: 13px;
+    width: 75%;
+
+}
+
+section {
+
+    background: rgb(211, 105, 155);
+    color: #726e49;
+    font-family: "Palatino Linotype";
+    font-size: 13px;
+    width: 75%;
+
+}
+
+footer {
+    background: rgb(211, 105, 155);
+    color: #726e49;
+    font-family: "Palatino Linotype";
+    font-size: 13px;
+    width: 75%;
+
+}
