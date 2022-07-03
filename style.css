@@ -1,46 +1,71 @@
-html {
-    background: rgb(211, 105, 155);
-    color: #726e49;
-    font-family: "Palatino Linotype";
-    font-size: 13px;
-    width: 75%;
+
+@font-face {
+    font-family: ;
+    src: url();
+
+    ;
+    font-family: "Palatino Linotype""Verdana";
+    font-size: 14px;
+    width: 80%;
+
+}    
+h1 {    
+    font-size: 26px; 
+    color: #8e00d4
+} 
+h2 {    font size: 20px; 
+    color: #8e00d4
 
 }
+
 
 header {
     background: rgb(211, 105, 155);
-    color: #726e49;
+    color: #ffffff;
     font-family: "Palatino Linotype";
-    font-size: 13px;
+    font-size: 16px;
     width: 75%;
-
+    
 }
 
-nav {
-    ul#navbar li{
-    display: inline;
-    }
+nav li {
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+    display: inline-block;
+    text-align: left;
+}
+
+
+ nav {     
     background: rgb(211, 105, 155);
     color: #726e49;
-    font-family: "Palatino Linotype";
+    font-family: "Verdana";
     font-size: 13px;
     width: 75%;
+    text-align: left;
 
+   
 }
+
 body {
+    h1 
+        color: teal;;
+    
     background: rgb(211, 105, 155);
-    color: #726e49;
+    color: #ffffff;
     font-family: "Palatino Linotype";
     font-size: 13px;
     width: 75%;
+    
 
 }
 
 section {
 
     background: rgb(211, 105, 155);
-    color: #726e49;
-    font-family: "Palatino Linotype";
+    color: #2e6784;
+    font-family: "Palatino Linotype""Verdana";
     font-size: 13px;
     width: 75%;
 
@@ -49,7 +74,7 @@ section {
 footer {
     background: rgb(211, 105, 155);
     color: #726e49;
-    font-family: "Palatino Linotype";
+    font-family: "Impact";
     font-size: 13px;
     width: 75%;
 
